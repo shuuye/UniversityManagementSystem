@@ -1,2 +1,6 @@
 # UniversityManagementSystem
-A University Management System developed purely in Java (console-based) to manage various aspects of university operations, including program management, course management, teaching management, and tutorial group management.
+A University Management System developed purely in Java (console-based) that uses the List Interface and ArrayList for managing data related to programs, courses, teaching staff, and tutorial groups.
+
+Technologies Used:
+Backend: Java (Console Application)
+Data Storage: List Interface, ArrayList for dynamic data management
